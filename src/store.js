@@ -28,9 +28,9 @@ const POS = [
 // ------------------------------------------------------
 
 const CANDIDATES = [
-  ['Isabella - Chairman', 'Dauda T K - ', 'Anish ' ],
+  ['Isabella - Chairman', 'Dauda T K  ', 'Anish ' ],
   ['Anisha', 'Dauda'],
-  ['Candidate-5', 'Candidate-6'],
+  ['Andrew S', 'Dauda T K'],
   ['Candidate-7', 'Candidate-8'],
   ['Candidate-9', 'Candidate-10'],
   [
