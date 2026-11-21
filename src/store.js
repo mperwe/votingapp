@@ -12,12 +12,12 @@ const POS = [
 
 // Dummy names: replace them in the "Candidates" tab once you know the real candidates.
 const DUMMY = [
-  ['Anna Becker', 'Jonas Weber'],
-  ['Mira Hoffmann', 'Lukas Schmidt'],
-  ['Sven Richter', 'Leyla Yilmaz'],
-  ['Clara Neumann', 'Tim Krause'],
-  ['Nadia Hartmann', 'Paul Vogel'],
-  ['Eva Lange', 'Omar Khalil', 'Sophie Brandt', 'Felix Wagner', 'Ida Köhler'],
+  ['Candidate-1', 'Candidate-2'],
+  ['Candidate-3', 'Candidate-4'],
+  ['Candidate-5', 'Candidate-6'],
+  ['Candidate-7', 'Candidate-8'],
+  ['Candidate-9', 'Candidate-10'],
+  ['Candidate-11', 'Candidate-12', 'Candidate-13', 'Candidate-14', 'Candidate-15'],
 ];
 
 let counter = 0;
